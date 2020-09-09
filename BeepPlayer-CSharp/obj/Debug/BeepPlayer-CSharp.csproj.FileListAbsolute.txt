@@ -1,0 +1,6 @@
+D:\Projects\C#\BeepPlayer-CSharp\BeepPlayer-CSharp\bin\Debug\BeepPlayer-CSharp.exe
+D:\Projects\C#\BeepPlayer-CSharp\BeepPlayer-CSharp\bin\Debug\BeepPlayer-CSharp.pdb
+D:\Projects\C#\BeepPlayer-CSharp\BeepPlayer-CSharp\obj\Debug\BeepPlayer-CSharp.csprojAssemblyReference.cache
+D:\Projects\C#\BeepPlayer-CSharp\BeepPlayer-CSharp\obj\Debug\BeepPlayer-CSharp.csproj.CoreCompileInputs.cache
+D:\Projects\C#\BeepPlayer-CSharp\BeepPlayer-CSharp\obj\Debug\BeepPlayer-CSharp.exe
+D:\Projects\C#\BeepPlayer-CSharp\BeepPlayer-CSharp\obj\Debug\BeepPlayer-CSharp.pdb

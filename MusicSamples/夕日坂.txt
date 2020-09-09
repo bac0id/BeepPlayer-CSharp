@@ -1,0 +1,147 @@
+T88 L8 1H
+Ob
+C. C. G G C 4C
+D C Ob B O# F F E 4E
+C. C. G G C 4C
+D C Ob B O# D 2C
+
+O#
+C. C. G G C 4C
+D C Ob B O# F F E 4E
+C. C. G G C 4C
+D C Ob B O# D C Ob Ob B O# C D O#
+
+C. C. G G C 4C
+D C Ob B O# F F E 4E
+C. C. G G C 4C
+D C Ob B O# D 2C
+
+P Ob G O# C C C 16D C. C D Ob G O# G 16C 4D.
+16P Ob 16B O# 16C 4D Ob G 16G O# D. D C D 4F. 16E 16D 2E 4P
+Ob G O# C C 16D C. C D Ob G O# G 16C 4D.
+16P Ob 16B O# 16C 4D Ob G 16G O# F. E D Ob B O# 4D C Ob 16B O# 4C.
+
+16P Ob B O# C G G Ob B O# C 16G G.
+G F E D C F 16E E.
+Ob G A O# E E 16E D. C Ob B O# C 4D G 16D 4E.
+
+16P Ob B O# C G G Ob B O# C 16G G.
+G F E D Ob B O# D 16C C.
+Ob G A O# 16E E. E 4D. Ob G A O# 16E E. E 4D 16P 16C Ob 16B O# 16C 2D 8P.
+
+L16
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C C Ob 8B E 8E 8D 4E
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+D D C Ob B O# C 8F E 2E
+
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C C Ob 8B E 8E 8D 4E.
+P C D 8G C 8C. 8F 8E. D D C Ob B B O# 2C 8P.
+
+
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C C Ob 8B E 8E 8D 4E
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+D D C Ob B O# C 8F E 2E
+
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C Ob B 8B E O# 8D Ob 8B O# 8C P
+Ob G O# E D C Ob B O# 4C. P C Ob 8B G O# 8D 8C Ob B O# 1C Ob
+
+L8
+C. C. G G C 4C
+D C Ob B O# F F E 4E
+C. C. G G C 4C
+D C Ob B O# D C Ob Ob B O# C D O#
+
+C. C. G G C 4C
+D C Ob B O# F F E 4E
+C. C. G G C 4C
+D C Ob B O# D 2C
+
+P Ob G O# C C C 16D C. C D Ob G O# G 16C 4D.
+16P Ob 16B O# 16C 4D Ob G 16G O# D. D C D 4F. 16E 16D 2E 4P
+Ob G O# C C 16D C. C D Ob G O# G 16C 4D.
+16P Ob 16B O# 16C 4D Ob G 16G O# F. E D Ob B O# 4D C Ob 16B O# 4C.
+
+16P Ob B O# C G G Ob B O# C 16G G.
+G F E D C F 16E E.
+Ob G A O# E E 16E D. C Ob B O# C 4D G 16D 4E.
+
+16P Ob B O# C G G Ob B O# C 16G G.
+G F E D C F 16E E.
+Ob G A O# 16E E. E 4D. Ob G A O# 16E E. E 4D 16P 16C Ob 16B O# 16C 2D 8P.
+
+L16
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C C Ob 8B E 8E 8D 4E
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+D D C Ob B O# C 8F E 2E
+
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C C Ob 8B E 8E 8D 4E.
+P C D 8G C 8C. 8F 8E. D D C Ob B B O# 2C 8P.
+
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C C Ob 8B E 8E 8D 4E
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+D D C Ob B O# C 8F E 2E
+
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C Ob B 8B E O# 8D Ob 8B O# 8C P
+Ob G O# E D C Ob B O# 4C. P C Ob 8B G O# 8D 8C Ob B O# 1C Ob
+
+L8
+C. C. G G C 4C
+D C Ob B O# F F E 4E
+C. C. G G C 4C
+D C Ob B O# D 2C
+
+2H
+C. C. G G C 4C
+D C Ob B O# F F E 4E
+C. C. G G C 4C
+D C Ob B O# D C
+
+L16
+P Ob E O# E D C Ob B O# 2C Ob 4B. B O# C 12D 12D 12D 12D 12C Ob 12B O# 4C
+E D C Ob B O# 2C 4D. Ob G O# 8G 8F 64E 64F 16E. 8D 8E
+P Ob E O# C Ob B A G O# 2C Ob 4B. B O# C 12G Ob 12G O# 12G 12F Ob 12G O#  
+12F 3.2E
+D C Ob B O# 2C P Ob G O# E D G E B G O# 1.6C P Ob
+
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C C Ob 8B E 8E 8D 4E
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+D D C Ob B O# C 8F E 2E
+
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C C Ob 8B E 8E 8D 4E.
+P C D 8G C 8C. 8F 8E. D D C Ob B B O# 2C 8P.
+
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C C Ob 8B E 8E 8D 4E
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+D D C Ob B O# C 8F E 2E
+
+Ob B O# G F E D 8E. Ob B O# G F E D 8E.
+C D O# 8C Ob B 8B E O# 8D Ob 8B O# 8C P
+Ob G O# E D C Ob B O# 4C. P C Ob 8B G O# 8D 8C Ob B O# 1.6C Ob
+
+P Ob B O# G F E D 2E 4D Ob 4B 4B. O# 8C 8C
+P Ob B O# G F E D 2E 4D 4A 2G
+G F E D C Ob B A G 2A 4G 4B 4B. A G 4A
+8E 8G 4A. O# 8C Ob 8B 8A 8G 8E 2G. 8P O#
+
+L8
+C. C. G G C 4C
+D C Ob B O# F F E 4E
+C. C. G G C 4C
+D C Ob B O# D 2C
+
+O#
+C. C. G G C 4C
+D C Ob B O# F F E 4E
+C. C. G G C 4C
+D C Ob B O# D 1C
